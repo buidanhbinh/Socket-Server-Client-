@@ -1,0 +1,12 @@
+C:\Users\mehdi\source\repos\WebSocket_Test\WebSocket_CLient\bin\Debug\WebSocket_CLient.exe.config
+C:\Users\mehdi\source\repos\WebSocket_Test\WebSocket_CLient\bin\Debug\WebSocket_CLient.exe
+C:\Users\mehdi\source\repos\WebSocket_Test\WebSocket_CLient\bin\Debug\WebSocket_CLient.pdb
+C:\Users\mehdi\source\repos\WebSocket_Test\WebSocket_CLient\bin\Debug\WebSocket_CLient.xml
+C:\Users\mehdi\source\repos\WebSocket_Test\WebSocket_CLient\obj\Debug\WebSocket_CLient.vbprojAssemblyReference.cache
+C:\Users\mehdi\source\repos\WebSocket_Test\WebSocket_CLient\obj\Debug\WebSocket_CLient.Form1.resources
+C:\Users\mehdi\source\repos\WebSocket_Test\WebSocket_CLient\obj\Debug\WebSocket_CLient.Resources.resources
+C:\Users\mehdi\source\repos\WebSocket_Test\WebSocket_CLient\obj\Debug\WebSocket_CLient.vbproj.GenerateResource.cache
+C:\Users\mehdi\source\repos\WebSocket_Test\WebSocket_CLient\obj\Debug\WebSocket_CLient.vbproj.CoreCompileInputs.cache
+C:\Users\mehdi\source\repos\WebSocket_Test\WebSocket_CLient\obj\Debug\WebSocket_CLient.exe
+C:\Users\mehdi\source\repos\WebSocket_Test\WebSocket_CLient\obj\Debug\WebSocket_CLient.xml
+C:\Users\mehdi\source\repos\WebSocket_Test\WebSocket_CLient\obj\Debug\WebSocket_CLient.pdb
