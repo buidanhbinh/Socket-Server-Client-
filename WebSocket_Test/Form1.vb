@@ -20,8 +20,8 @@ Public Class Form1
             While (True)
                 Dim p As Socket = g.Accept
                 j.Add(p)
-                ListView1.Items.Add(p.LocalEndPoint.ToString)
-                Task.Run(Sub() RD(p, Context, p.LocalEndPoint.ToString))
+                ListView1.Items.Add(p.RemoteEndPoint.ToString)
+                Task.Run(Sub() RD(p, Context, p.RemoteEndPoint.ToString))
             End While
         Catch ex As Exception
             Exit Sub
